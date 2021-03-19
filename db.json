@@ -35,6 +35,12 @@
       "username": "usuarios",
       "password": "0cc175b9c0f1b6a831c399e269772661",
       "id": 6
+    },
+    {
+      "name": "test",
+      "username": "usuarios",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b",
+      "id": 7
     }
   ]
 }
